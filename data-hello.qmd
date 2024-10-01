@@ -30,7 +30,7 @@ Stents are small mesh tubes that are placed inside narrow or weak arteries to as
 Many doctors have hoped that there would be similar benefits for patients at risk of stroke.
 We start by writing the principal question the researchers hope to answer:
 
-> Does the use of stents reduce the risk of stroke?
+> Does the use of stents reduce the risk of having a stroke?
 
 The researchers who asked this question conducted an experiment with 451 at-risk patients.
 Each volunteer patient was randomly assigned to one of two groups:
